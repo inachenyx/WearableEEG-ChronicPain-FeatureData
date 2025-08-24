@@ -18,9 +18,9 @@ This repository contains feature matrices derived from dual-channel wearable EEG
 The repository provides anonymized **feature matrices and class labels**. Raw EEG signals are not included due to ethics restrictions, but controlled access may be requested from the corresponding author.
 
 ## File Structure
-- `allfeature.mat` – Feature matrix
-- `labels.csv` – Segment labels (0 = mild, 1 = moderate, 2 = severe)
-- `features_description.csv` – Names and descriptions of the 142 features  
+- `allfeature.mat` – Feature matrix of all 960 segments
+- `features_description.csv` – Names and descriptions of the 78 features
+- `example.ipynb` – Example scripts for loading and exploring the feature matrices
 
 ## Usage
 These data can be used to reproduce or extend the machine learning analyses reported in the paper. 
