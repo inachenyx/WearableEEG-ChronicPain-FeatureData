@@ -2,7 +2,6 @@
 
 This repository contains feature matrices derived from dual-channel wearable EEG recordings used in the study:  
 **"Assessment and biomarker exploration of chronic pain using a wearable EEG device"**  
-(Chen et al., 2025, Discover Sensors).
 
 ## Dataset Description
 - **Participants**: 20 patients with chronic pain (7 mild, 7 moderate, 6 severe).  
