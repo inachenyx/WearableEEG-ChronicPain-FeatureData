@@ -20,7 +20,6 @@ The repository provides anonymized **feature matrices and class labels**. Raw EE
 ## File Structure
 - `allfeature.mat` – Feature matrix of all 960 segments
 - `features_description.csv` – Names and descriptions of the 78 features
-- `example.ipynb` – Example scripts for loading and exploring the feature matrices
 
 ## Usage
 These data can be used to reproduce or extend the machine learning analyses reported in the paper. 
